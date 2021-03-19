@@ -7,7 +7,6 @@ I've made a few
 I've had my share of sand
 Kicked in my face
 But I've come through
-<<<<<<< HEAD
 
 
 And we mean to go on and on and on and on
@@ -18,4 +17,3 @@ We are the champions
 No time for losers
 'Cause we are the champions of the World
 =======
->>>>>>> f81af285038020b17538bbc20b6edb0f06708cd8
